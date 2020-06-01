@@ -50,8 +50,9 @@ Returns:
     "Effects":"Relaxed,Aroused,Creative,Happy,Energetic",
     "Flavor":"Flowery,Violet,Diesel",
     "Description":"The \u201898 Aloha White Widow is an especially potent cut of White Widow that has grown in renown alongside Hawaiian legends like Maui Wowie and Kona Gold. This White Widow phenotype reeks of diesel and skunk and has a rich earthy taste with intermittent notes of hash. Its buds are coated in trichomes, giving its dark foliage a lustrous glint to go along with its room-filling odor. This one-hitter-quitter uplifts the mind with mind-bending euphoria that materializes in the body as airy relaxation. \u201898 Aloha White Widow is available from Pua Mana 1st Hawaiian Pakal\u014dl\u014d Seed Bank. \u00a0"
-    },
-    ...
+  },
+  ...
+]
 ```
 
 ---
